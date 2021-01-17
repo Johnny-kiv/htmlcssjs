@@ -1,0 +1,14 @@
+ul{
+	border-bottom:3px solid grey;
+	border-top:3px solid red;
+	background:grey;
+}
+li{
+	float:left;
+	list-style-type: none; /* Убираем маркеры */
+	margin-left:10px;
+}
+a{
+	color:white;
+	background:grey;
+}
