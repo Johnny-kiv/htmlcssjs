@@ -1,0 +1,17 @@
+.dv_r{
+    border-top: 2px solid orange;
+    width:600px;
+    margin:0 auto;
+    border-right: 2px solid orange;
+
+}
+.dv_sh1{
+    background: #ffe6ff;
+    margin-top:5px;
+    margin-left:15px;
+    width: 700px
+}
+.dv_sh2{
+    width:30px;
+    border-right: 2px solid orange;
+}
