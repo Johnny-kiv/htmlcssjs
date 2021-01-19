@@ -1,17 +1,27 @@
-.dv_r{
-    border-top: 2px solid orange;
-    width:600px;
+.dv_r1{
+    width:540px;
     margin:0 auto;
-    border-right: 2px solid orange;
-
+	border-right:2px solid #F8F1DE;	
+	border-left:2px solid #F8F1DE;
+	height:300px;
+}
+.dv_r2{
+	border-top:2px solid #F8F1DE;
+	border-bottom:2px solid #F8F1DE;
+	width:500px;
+	margin:0 auto;
 }
 .dv_sh1{
-    background: #ffe6ff;
-    margin-top:5px;
-    margin-left:15px;
-    width: 700px
+    background: #FCF8E4;
+    margin:0 auto;
+	margin-top:5px;
+    width: 510px
 }
 .dv_sh2{
-    width:30px;
-    border-right: 2px solid orange;
+	background:#FF9823;
+}
+.dv_s_sh{
+	float:left;
+	margin-right:30px;
+	color:white;
 }
