@@ -40,6 +40,7 @@
 .dv_word_sh23{
 	color:white;
 	font-weight:bolder;
+	margin-bottom:0px;
 }
 .lect{
 	color:#0071A6;
@@ -62,6 +63,13 @@
 .p{
 	float:left;
 }
-
+.lector{
+	float:left;
+	margin-right:140px;
+}
+.lect_boxes2{
+	float:left;
+	margin-right:10px;
+}
 /*	float:left;
 	*/
