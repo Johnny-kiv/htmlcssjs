@@ -3,7 +3,7 @@
     margin:0 auto;
 	border-right:2px solid #EBD6A0;	
 	border-left:2px solid #EBD6A0;
-	height:300px;
+	height:220px;
 }
 .dv_r2{
 	border-top:2px solid #EBD6A0;
@@ -44,10 +44,12 @@
 }
 .lect_box{
 	border-bottom:1px solid #EBD6A0;
+
 }
 .minut{
 	font-weight:bolder;
 	margin-top:4px;
+	
 }
 /*	float:left;
 	*/
