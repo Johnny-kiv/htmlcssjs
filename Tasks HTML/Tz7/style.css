@@ -1,13 +1,12 @@
 .dv_r1{
     width:540px;
     margin:0 auto;
-	border-right:2px solid #F8F1DE;	
-	border-left:2px solid #F8F1DE;
+	border-right:2px solid #EBD6A0;	
+	border-left:2px solid #EBD6A0;
 	height:300px;
 }
 .dv_r2{
-	border-top:2px solid #F8F1DE;
-	border-bottom:2px solid #F8F1DE;
+	border-top:2px solid #EBD6A0;
 	width:500px;
 	margin:0 auto;
 }
@@ -19,9 +18,36 @@
 }
 .dv_sh2{
 	background:#FF9823;
+	width:510px;
+	font-size:15px;
 }
-.dv_s_sh{
+.dv_word_sh21{
 	float:left;
-	margin-right:30px;
+	margin-right:100px;
 	color:white;
+	margin-left:3px;
+	font-weight:bolder;
 }
+.dv_word_sh22{
+	float:left;
+	color:white;
+	margin-right:140px;
+	font-weight:bolder;
+}
+.dv_word_sh23{
+	color:white;
+	font-weight:bolder;
+}
+.lect{
+	color:0071A6;
+	font-weight:bolder;
+}
+.lect_box{
+	border-bottom:1px solid #EBD6A0;
+}
+.minut{
+	font-weight:bolder;
+	margin-top:4px;
+}
+/*	float:left;
+	*/
