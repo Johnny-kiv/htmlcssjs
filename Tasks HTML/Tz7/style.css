@@ -1,5 +1,5 @@
 .dv_r1{
-    width:540px;
+    width:640px;
     margin:0 auto;
 	border-right:2px solid #EBD6A0;	
 	border-left:2px solid #EBD6A0;
@@ -7,18 +7,18 @@
 }
 .dv_r2{
 	border-top:2px solid #EBD6A0;
-	width:510px;
-	margin:0 auto;
+	width:590px;
+	margin-left:20px;
 }
 .dv_sh1{
     background: #FCF8E4;
     margin:0 auto;
 	margin-top:5px;
-    width: 510px;
+    width:600px;
 }
 .dv_sh2{
 	background:#FF9823;
-	width:510px;
+	width:600px;
 	font-size:15px;
 	height:30px;
 }
@@ -48,7 +48,7 @@
 }
 .lect_box{
 	border-bottom:1px solid #EBD6A0;
-	height:40px;
+	height:50px;
 
 }
 .lect_boxes{
@@ -66,6 +66,7 @@
 .lector{
 	float:left;
 	margin-right:140px;
+	height:80px;
 }
 .lect_boxes2{
 	float:left;
